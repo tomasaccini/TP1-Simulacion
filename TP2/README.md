@@ -1,4 +1,4 @@
-# TPs Simulacion
+# TP2-Simulacion
 
 - Juan Manuel Zaragoza, 92308, juanmanuelzar@gmail.com
 - Ignacio Manes,97092, nacho.maness@gmail.com
